@@ -1,0 +1,26 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="}F3gJ-R{}znTD5xfml`@" x="0" y="0"><statement name="HANDLER"><block type="gamesetbackgroundcolor" id="-/)$L#bW+)pe-5DqmHRm"><value name="color"><shadow type="colorindexpicker" id="r!sJNl74E6/}$#wv%_2?"><field name="index">9</field></shadow></value><next><block type="particlesStartScreenAnimation" id="ay6A`6~c}5b0$V{oT+MM"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><field name="effect">effects.confetti</field><value name="duration"><shadow type="timePicker" id="2:D|rr09r3L=M%f|mb~3"><field name="ms">500</field></shadow></value><next><block type="device_pause" id="1e!2UEZ1e05-qMTdF7b?"><value name="pause"><shadow type="timePicker" id="3y,po5Zb+9HR_a}]X0d;"><field name="ms">3000</field></shadow></value><next><block type="game_dialog_set_frame" id="?F;pLUm36?.=?l8Ws@Ti"><value name="frame"><shadow type="dialog_image_picker" id="88k_xmOZ6:+ubM.3AW]n"><field name="img">img`
+.....cccccccccccccc.....
+...cbd111111111111dbc...
+..cd1111111111111111dc..
+.cd111111111111111111dc.
+.b11111111111111111111b.
+cd11111111111111111111dc
+c1111111111111111111111c
+c1111111111111111111111c
+c1111111111111111111111c
+c1111111111111111111111c
+c1111111111111111111111c
+c1111111111111111111111c
+c1111111111111111111111c
+c1111111111111111111111c
+c1111111111111111111111c
+c1111111111111111111111c
+c1111111111111111111111c
+cd11111111111111111111dc
+.b11111111111111111111b.
+.cd111111111111111111dc.
+..cd1111111111111111dc..
+..b11d111111111111dbc...
+.b11bcccccccccccccc.....
+ccccc...................
+`</field><data>{"commentRefs":[],"fieldData":{"img":"88k_xmOZ6:+ubM.3AW]n"}}</data></shadow></value><next><block type="game_dialog_set_text_color" id="9r5I-Z5$B@su[buaKfn2"><value name="color"><shadow type="colorindexpicker" id="EW4zugM8II#9wXfEK!?t"><field name="index">15</field></shadow></value><next><block type="game_show_long_text" id="+:l:aqATMV9GO-nE62)U"><field name="layout">DialogLayout.Bottom</field><value name="str"><shadow type="text" id="JI@BuLKfr(K8FSxye`V0"><field name="TEXT">Neat</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
